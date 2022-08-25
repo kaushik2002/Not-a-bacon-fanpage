@@ -1,0 +1,29 @@
+h1:hover {
+  color: blue;
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+
+.bacon{
+  background-color: red;
+}
+
+.broccoli {
+  background-color: green;
+}
+
+.broccoli_row {
+  color: green;
+}
+
+.bacon_row{
+  color: red;
+}
+
+.heading {
+  color: green;
+}
